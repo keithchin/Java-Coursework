@@ -1,0 +1,13 @@
+WHILE true DO
+  move
+  IF next-is-empty THEN
+  END IF
+  IF random THEN
+    turnleft
+    infect
+    go-for-it
+    turnright
+    look-for-something
+  IF
+  skip
+END WHILE
